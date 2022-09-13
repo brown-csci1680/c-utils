@@ -1,0 +1,8 @@
+*~
+\#*#
+*.o
+
+.DS_Store
+
+examples/linked-list/demo
+examples/htable/htable_example
